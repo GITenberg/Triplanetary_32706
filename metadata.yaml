@@ -1,0 +1,56 @@
+_repo: Triplanetary_32706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Doc
+    - Smith, Edward Elmer
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: http://en.wikipedia.org/wiki/E._E._Smith
+description: "Triplanetary is a science fiction novel and space opera by American\
+  \ writer E. E. Smith. It was first serialized in the magazine Amazing Stories in\
+  \ 1934. After the original four novels of the Lensman series were published, Smith\
+  \ expanded and reworked Triplanetary into the first of two prequels for the series.\
+  \ The expanded Triplanetary was published in book form in 1948 by Fantasy Press.\
+  \ The second prequel, First Lensman, was a new original novel published in 1950\
+  \ by Fantasy Press.\nThe novel covers several episodes in an eons-long human breeding\
+  \ project by the super-intelligences of the Arisians. This alien race is breeding\
+  \ two genetic lines to become the ultimate weapon in Arisia's cosmic war with their\
+  \ arch-enemies, the Eddorians. The initial chapters cover the Kinnison genetic line\
+  \ during the fall of Atlantis and Nero's reign in Rome. These tales were inserted\
+  \ into the novel following the serialized release, along with chapters covering\
+  \ members of the Kinnison line in World Wars One, Two, and Three.\nThe final chapter\
+  \ of Triplanetary tells of the discovery of the inertialess drive that allows faster-than-light\
+  \ travel. Patrolman Conway Costigan and his friends engage in a space battle with\
+  \ Gray Roger the pirate gangster. This conflict is complicated by the arrival of\
+  \ the technologically superior, extra-Solar, amphibian-like Nevians, resulting in\
+  \ the first interstellar war involving humans. In this story Virgil Samms and Roderick\
+  \ Kinnison, important members of the two breeding lines, are introduced.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32706'
+  wikidata: Q7843311
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space warfare -- Fiction'
+title: Triplanetary
+url: http://www.gutenberg.org/ebooks/32706
+wikipedia:
+- https://en.wikipedia.org/wiki/Triplanetary_(novel)
+- https://pt.wikipedia.org/wiki/Triplanet%C3%A1ria
