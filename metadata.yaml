@@ -34,6 +34,8 @@ description: "Triplanetary is a science fiction novel and space opera by America
   \ the first interstellar war involving humans. In this story Virgil Samms and Roderick\
   \ Kinnison, important members of the two breeding lines, are introduced.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32706#Triplanetary
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-06'
 gutenberg_type: Text
